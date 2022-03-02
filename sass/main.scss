@@ -1,0 +1,6 @@
+// custom variables //on a normal basis our bootstrap should work but with this chng we can custom our bootstrap like we did with the colors
+$primary: purple;
+$secondary: pink;
+
+// import bootstrap
+@import '../node_modules/bootstrap/scss/bootstrap'
